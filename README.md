@@ -1,2 +1,2 @@
 # hello-world
-Ideas, resources and more
+My ideas, resources and more thoughts on programing maps
